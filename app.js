@@ -77,7 +77,7 @@ app.post('/', (req, res) => {
     //         }
     //     };
     //     const postUrl = "http://google.com" //replace your upload url here     
-    //     req.post({ url: postUrl, formData: formData }, function(err, httpResponse, body) {
+    //     req1.post({ url: postUrl, formData: formData }, function(err, httpResponse, body) {
     //         console.log(err);
     //         console.log(httpResponse);
     //         console.log(body);
